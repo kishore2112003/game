@@ -213,7 +213,7 @@ ol {
 	background-color: yellow;
 }
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:370px) {
 	.site-logo img{
 		padding: 0.5rem;
 		width: 150px;
@@ -230,13 +230,8 @@ ol {
 
 	
 
-	.main-menu {
-		
-		
-		width: 55%;
-		
-		
-		
+	.main-menu {	
+		width: 55%;	
 	}
 	.main-menu ul {
 		display: flex;
@@ -258,7 +253,7 @@ ol {
 		font-weight: 600;
 		margin-top: 1rem;
 		width: 100%;
-		margin-left: 0.5rem;
+		
 	}
 
 
