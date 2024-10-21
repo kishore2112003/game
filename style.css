@@ -213,7 +213,7 @@ ol {
 	background-color: yellow;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:500px) {
 	.site-logo img{
 		padding: 0.5rem;
 		width: 150px;
